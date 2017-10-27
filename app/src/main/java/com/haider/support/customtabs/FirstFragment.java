@@ -1,4 +1,4 @@
-package com.example.support.customtabs;
+package com.haider.support.customtabs;
 
 import android.os.Bundle;
 import android.support.annotation.Nullable;
@@ -6,6 +6,9 @@ import android.support.v4.app.Fragment;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+
+import com.haider.support.customtabs.R;
+
 
 /**
  * Created by support on 10/23/17.

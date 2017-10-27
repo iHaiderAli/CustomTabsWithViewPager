@@ -1,4 +1,4 @@
-package com.example.support.customtabs;
+package com.haider.support.customtabs;
 
 import android.animation.ObjectAnimator;
 import android.animation.StateListAnimator;
@@ -15,6 +15,8 @@ import android.os.Bundle;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.TextView;
+
+import com.haider.support.customtabs.R;
 
 import java.util.ArrayList;
 import java.util.List;
