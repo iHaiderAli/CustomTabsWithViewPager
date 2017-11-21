@@ -1,7 +1,9 @@
 
 ## Custom Tabs Layout With ViewPager
 
-  To use this "customTabsWithViewPager" code into your existing project you need to follow some steps.
+[![tab1.png](https://s18.postimg.org/x2t4s4dll/tab1.png)](https://postimg.org/image/pzl9ci85x/) [![tab2.png](https://s18.postimg.org/xsbx4jbl5/tab2.png)](https://postimg.org/image/ni9i5alph/)
+
+To use this "customTabsWithViewPager" code into your existing project you need to follow some steps.
 	
     1. Add this library into module level app
           compile 'com.android.support:design:25.3.1'
